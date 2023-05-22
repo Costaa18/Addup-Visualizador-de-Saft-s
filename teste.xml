@@ -1,0 +1,3627 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<AuditFile xmlns="urn:OECD:StandardAuditFile-Tax:PT_1.04_01"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <AuditFileVersion>1.04_01</AuditFileVersion>
+        <CompanyID>V.N.F. 507999916</CompanyID>
+        <TaxRegistrationNumber>507999916</TaxRegistrationNumber>
+        <TaxAccountingBasis>P</TaxAccountingBasis>
+        <CompanyName>Ubiseg Segurança, Higiene e Ambiente, lda.</CompanyName>
+        <BusinessName>Ubiseg Segurança, Higiene e Ambiente, lda.</BusinessName>
+        <CompanyAddress>
+            <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+            <City>VILA NOVA DE FAMALICÃO</City>
+            <PostalCode>4760-000</PostalCode>
+            <Country>PT</Country>
+        </CompanyAddress>
+        <FiscalYear>2021</FiscalYear>
+        <StartDate>2021-03-01</StartDate>
+        <EndDate>2021-03-31</EndDate>
+        <CurrencyCode>EUR</CurrencyCode>
+        <DateCreated>2021-04-12</DateCreated>
+        <TaxEntity>Sede</TaxEntity>
+        <ProductCompanyTaxID>502667583</ProductCompanyTaxID>
+        <SoftwareCertificateNumber>2648</SoftwareCertificateNumber>
+        <ProductID>SAGE 50c/Sage Portugal SA</ProductID>
+        <ProductVersion>2021.02.001</ProductVersion>
+    </Header>
+    <!-- MXw1MDc5OTk5MTZ8NThDRDhENUQ1NEE0MjlDN0UxMjAzN0ZDNUE1NDA2QUI0NzBBRjA3Mw== -->
+    <MasterFiles>
+        <Customer>
+            <CustomerID>Consumidor Final</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>999999990</CustomerTaxID>
+            <CompanyName>Consumidor Final</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Desconhecido</AddressDetail>
+                <City>Desconhecido</City>
+                <PostalCode>0000-000</PostalCode>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>4</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>505824175</CustomerTaxID>
+            <CompanyName>Miga Doce, Padaria e Pastelaria, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida Central, n.º 79</AddressDetail>
+                <City>Vale de S. Cosme</City>
+                <PostalCode>4770-589</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>15</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>503096024</CustomerTaxID>
+            <CompanyName>A Super 2000 - Máquinas automáticas de bebidas, SA</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua da Pedra, n.º 120 Vale de S. Cosme</AddressDetail>
+                <City>Vale de S. Cosme - VN de Famalicão</City>
+                <PostalCode>4770-578</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>24</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>503664910</CustomerTaxID>
+            <CompanyName>Padaria do Montinho, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua dos Padeiros, n.º 15 Montinho</AddressDetail>
+                <City>São Martinho - Vila Nova de Famalicão</City>
+                <PostalCode>4770-609</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>33</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>508655846</CustomerTaxID>
+            <CompanyName>Tribérica, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua dos Três Caminhos - Lote 10 Lugar de Meães</AddressDetail>
+                <City>Esmeriz</City>
+                <PostalCode>4760-482</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>34</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>503949710</CustomerTaxID>
+            <CompanyName>Centro Social Paroquial de Requião</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Lugar da Igreja, n.º 235 Requião</AddressDetail>
+                <City>- 430 Vila Nova de Famalicão</City>
+                <PostalCode>4760-000</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>51</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>506489132</CustomerTaxID>
+            <CompanyName>Ideia2003 - Têxteis, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua de Boeiros, n,º 56</AddressDetail>
+                <City>Vilarinho - Santo Tirso</City>
+                <PostalCode>4795-819</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>62</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>504833260</CustomerTaxID>
+            <CompanyName>A Super 2000 e 1</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua da Pedra, n.º 120</AddressDetail>
+                <City>Vale de S. Cosme</City>
+                <PostalCode>4770-578</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>64</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501889566</CustomerTaxID>
+            <CompanyName>InterConfor- Decorações de Interiores Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Praça Camilo Castelo Branco </AddressDetail>
+                <City>Santo Tirso</City>
+                <PostalCode>4780-374</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>94</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>507519736</CustomerTaxID>
+            <CompanyName>ARTEMAVE - Associação de Promoção das Artes e Música do Vale do Ave</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Caldas da Saúde </AddressDetail>
+                <City>- Areias, Santo Tirso</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>95</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>506625435</CustomerTaxID>
+            <CompanyName>Instituto Educativo Padre Afonso Luisier S.J</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Caldas da Saúde </AddressDetail>
+                <City>- Areias, Santo Tirso</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>96</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>506625451</CustomerTaxID>
+            <CompanyName>Instituto de Formação Profissional Albino Sousa Cruz</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Escola Profissional do INA Apartado 1</AddressDetail>
+                <City>- Areias, Santo Tirso</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>97</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>500988706</CustomerTaxID>
+            <CompanyName>Associação Pró-Infância Nuno Álvares</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Caldas da Saúde</AddressDetail>
+                <City>- Areias, Santo Tirso</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>98</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>506625443</CustomerTaxID>
+            <CompanyName>Colégio das Caldinhas</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Caldas da Saúde</AddressDetail>
+                <City>- Areias, Santo Tirso,</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>99</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>506625460</CustomerTaxID>
+            <CompanyName>Instituto de Formação Artística do Vale do Ave - Inforatis</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Caldas da Saúde </AddressDetail>
+                <City>- Areias, Santo Tirso</City>
+                <PostalCode>4784-907</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>115</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>508270057</CustomerTaxID>
+            <CompanyName>Brioxa - Industrias Alimentares, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua do Bom Sucesso, n.º413</AddressDetail>
+                <City>Reguenga -Santo Tirso</City>
+                <PostalCode>4825-373</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>121</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>508113172</CustomerTaxID>
+            <CompanyName>NHClima - Ventilação e Climatização, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua do Outeiro, n.º 160</AddressDetail>
+                <City>Requião - V.N. de Famalicão</City>
+                <PostalCode>4770-452</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>135</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>505080389</CustomerTaxID>
+            <CompanyName>CastiCarnes - Comércio de Carnes, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida Santa Marinha, Edificio Santa Justa, Loja 3 e 4</AddressDetail>
+                <City>Gondifelos - Vila Nova de Famalicão</City>
+                <PostalCode>4760-502</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>139</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>500228590</CustomerTaxID>
+            <CompanyName>RECUTEX - Recuperados Têxteis, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida D. Afonso Henriques, n.º 1492 - Calendário</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-283</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>140</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501934537</CustomerTaxID>
+            <CompanyName>FIAVIT - Fiação ds Vitória, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida Dom Afonso Henriques, n.º 1492 - Calendário</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-283</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>174</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501574786</CustomerTaxID>
+            <CompanyName>Soprem Norte - Comércio de Industria e Máquinas, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua da Estação, n.º 668 Vinhal</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4761-909</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>181</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>508252636</CustomerTaxID>
+            <CompanyName>Confeções Paula Gonçalves - Unipessoal, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Dr.º José Vieira da Silva, n.º 54</AddressDetail>
+                <City>Santo Tirso</City>
+                <PostalCode>4780-452</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>186</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>500176108</CustomerTaxID>
+            <CompanyName>Malhas Carjor, SA</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Dr. Francisco Sá Carneiro, nº 66</AddressDetail>
+                <City>Palmeira</City>
+                <PostalCode>4780-326</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>198</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>513065849</CustomerTaxID>
+            <CompanyName>Coordenada Gulosa, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Dona Maria Pregaria - Prego, Hamburgaria & Companhia Rua Duque de Saldanha, nº163, Calendário</AddressDetail>
+                <City>- 334 Vila Nova de Famalicão</City>
+                <PostalCode>4760-000</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>205</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>509261540</CustomerTaxID>
+            <CompanyName>Torre Sénior, S.A.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Marchal Humberto Delgado, n.º 1458</AddressDetail>
+                <City>Areias - Santo Tirso</City>
+                <PostalCode>4780-039</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>206</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>504802992</CustomerTaxID>
+            <CompanyName>A Torre dos Pequeninos, Creche e Jardim de Infância, Unipessoal, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Marchal Humberto Delgado</AddressDetail>
+                <City>Areias - Santo Tirso</City>
+                <PostalCode>4780-039</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>208</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501572120</CustomerTaxID>
+            <CompanyName>Instituto de São José</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Eva Machado Guimarães nº 70</AddressDetail>
+                <City>Oliveira S. Mateus</City>
+                <PostalCode>4765-717</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>213</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>513251057</CustomerTaxID>
+            <CompanyName>Razão Astral, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Duque de Saldanha, Nº 163</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-334</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>214</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>500849013</CustomerTaxID>
+            <CompanyName>Santa Casa da Misericórdia</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Barão da Trovisqueira, nº86</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-126</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>215</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501481583</CustomerTaxID>
+            <CompanyName>Fergotex - Fábrica de Malhas Têxteis, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Av. Conde Arnoso, nº1831</AddressDetail>
+                <City>Arnoso, Santa Maria</City>
+                <PostalCode>4770-526</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>223</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>513475869</CustomerTaxID>
+            <CompanyName>Emanuel Jorge de Carvalho Lopes, Unipessoal Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua 9 de Abril, 582</AddressDetail>
+                <City>Porto</City>
+                <PostalCode>4250-344</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>252</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>510951279</CustomerTaxID>
+            <CompanyName>Alcança Vantagem Unipessoal, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>BUBBLES Parque 1º de Maio</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-888</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>271</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>505285541</CustomerTaxID>
+            <CompanyName>Centro Social e Paroquial de São Miguel de Ceide</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Dr. Manuel Faria, nº 601</AddressDetail>
+                <City>Seide São Miguel</City>
+                <PostalCode>4770-639</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>275</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501889795</CustomerTaxID>
+            <CompanyName>Porminho Alimentação, S.A.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Travessa da Lage, nº 35</AddressDetail>
+                <City>Outiz, V. N. Famalicão</City>
+                <PostalCode>4760-692</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>280</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>503331406</CustomerTaxID>
+            <CompanyName>Auto Calibragem Silvar, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua do Sobrado, n.º 6</AddressDetail>
+                <City>Silvares, Guimarães</City>
+                <PostalCode>4835-443</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>293</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>503366846</CustomerTaxID>
+            <CompanyName>Ridi - Empresa Textil, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua de Mide, Lote 22 - Parque Industrial de Mide</AddressDetail>
+                <City>Lordelo - Guimarães</City>
+                <PostalCode>4815-169</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>294</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>501131477</CustomerTaxID>
+            <CompanyName>Realfio - Têxteis, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua de Mide, Lote 22, Parque Industrial de Mide</AddressDetail>
+                <City>Lordelo - Guimarães</City>
+                <PostalCode>4815-169</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>302</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>514302232</CustomerTaxID>
+            <CompanyName>Solaminas, Lda</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua Dona Laura Cruz, n.º 1101</AddressDetail>
+                <City>Lemenhe - Vila Nova de Famalicão</City>
+                <PostalCode>4775-414</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>313</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>514514841</CustomerTaxID>
+            <CompanyName>J. M. Leite de Castro, Investimentos, S.A.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Lugar de Formariz Vila do Conde</AddressDetail>
+                <City>Vila do Conde</City>
+                <PostalCode>4480-958</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>322</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>502655909</CustomerTaxID>
+            <CompanyName>ASSUS - Associação de Solidariedade Social da Urbanização do Seixo</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Rua da Creche, n.º 104</AddressDetail>
+                <City>-112 São Mamede de Infesta</City>
+                <PostalCode>4465-000</PostalCode>
+                <Region>Porto</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>337</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>515405515</CustomerTaxID>
+            <CompanyName>Condição Boémia, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida 25 de Abril, n.º 22</AddressDetail>
+                <City>Vila Nova de Famalicão</City>
+                <PostalCode>4760-101</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <Customer>
+            <CustomerID>347</CustomerID>
+            <AccountID>Desconhecido</AccountID>
+            <CustomerTaxID>515079677</CustomerTaxID>
+            <CompanyName>PLIM, Lda.</CompanyName>
+            <BillingAddress>
+                <AddressDetail>Avenida de Laborins, n.º 147, 2º Esq. Frente</AddressDetail>
+                <City>Joane</City>
+                <PostalCode>4770-219</PostalCode>
+                <Region>Braga</Region>
+                <Country>PT</Country>
+            </BillingAddress>
+            <SelfBillingIndicator>0</SelfBillingIndicator>
+        </Customer>
+        <TaxTable>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-AC</TaxCountryRegion>
+                <TaxCode>INT</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>8</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-AC</TaxCountryRegion>
+                <TaxCode>ISE</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>0</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-AC</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>13</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-AC</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>15</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-AC</TaxCountryRegion>
+                <TaxCode>RED</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>4</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>INT</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>12</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>ISE</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>0</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>19</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>20</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>21</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>23</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>RED</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>5</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-MA</TaxCountryRegion>
+                <TaxCode>INT</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>8</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-MA</TaxCountryRegion>
+                <TaxCode>ISE</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>0</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-MA</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>13</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-MA</TaxCountryRegion>
+                <TaxCode>NOR</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>15</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>IVA</TaxType>
+                <TaxCountryRegion>PT-MA</TaxCountryRegion>
+                <TaxCode>RED</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>4</TaxPercentage>
+            </TaxTableEntry>
+            <TaxTableEntry>
+                <TaxType>NS</TaxType>
+                <TaxCountryRegion>PT</TaxCountryRegion>
+                <TaxCode>NS</TaxCode>
+                <Description>Omisso</Description>
+                <TaxPercentage>0</TaxPercentage>
+            </TaxTableEntry>
+        </TaxTable>
+    </MasterFiles>
+    <SourceDocuments>
+        <SalesInvoices>
+            <NumberOfEntries>42</NumberOfEntries>
+            <TotalDebit>0.00</TotalDebit>
+            <TotalCredit>4125.00</TotalCredit>
+            <Invoice>
+                <InvoiceNo>FAC C/4719</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:31:03</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>OPlLMBfHvJIW/+rYA9LVHHhFz/bd1blqVS45lNQYWcfM8Ws/Khtsqny0bW6lZ5trnhbn1LaoYSeYc0hIherN6dmoqWjoO78Q7ySY2YZdlKPp3gDZwPHWrRdm5ZvV4UngKt1PDhK2tngoFuHTnUpWrjkeTgBC8Jrb/CGnqtnp3yk=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-11</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:31:03</SystemEntryDate>
+                <CustomerID>135</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida Santa Marinha, Edificio Santa Justa, Loja 3 e 4</AddressDetail>
+                        <City>Gondifelos - Vila Nova de Famalicão</City>
+                        <PostalCode>4760-502</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:46:03</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-11</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - Mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-12)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4720</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:31:55</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>RBxRa58AblDOC3G0T13p/6RrrSOj/Q8MQGnv3s7POuxzO0s1XCx6BE5Dg/F359oYgvNRRTmK1zFiOlri5bBkPNR7XpDRJv+Scx2F7CzXtn971uL+etEDiIMP1DU0SOHUalqGe5QSdC2eAimxsMHQv67pabBkWS2evqj+lQueeYE=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-17</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:31:55</SystemEntryDate>
+                <CustomerID>4</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida Central, n.º 79</AddressDetail>
+                        <City>Vale de S. Cosme</City>
+                        <PostalCode>4770-589</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:46:55</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-17</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-18)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4721</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:32:41</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>dBpS/n8VlZaDTAUyYsAwAqLahyCdNvAToKCVaz8W1IZ672nzUUZu/TtZKeNLNZPxlizICUQ3eSBjmhV+5rDgvY687QY0nlZFdKZnbkEwys40Dy12S7+V0NrHkBZ4kksyXwPQgMC5Mx4Io2F0wEcBq12bQAmbCsK9hQhnsIoy3Rs=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-17</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:32:41</SystemEntryDate>
+                <CustomerID>24</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua dos Padeiros, n.º 15 Montinho</AddressDetail>
+                        <City>São Martinho - Vila Nova de Famalicão</City>
+                        <PostalCode>4770-609</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:47:41</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>60</UnitPrice>
+                    <TaxPointDate>2021-03-17</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>60</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>13.8</TaxPayable>
+                    <NetTotal>60</NetTotal>
+                    <GrossTotal>73.80</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-18)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4722</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:33:21</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>RhCjm6q7w0x0gEnw7hwRPCF+V+e6BIcnjFg4achmpCHh5s6AJWHI8uAdxXLllyylmH/A7oNJN3r+lOBsU5CPPIsbc9l/1aMQTxktWmvgamlkv+pv8qCXGUpEsypTkOGp8c80GxbFYBptGcPNOjEVSb4rxwTIWfcTkWvpkOoa+jM=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-18</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:33:21</SystemEntryDate>
+                <CustomerID>213</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Duque de Saldanha, Nº 163</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-334</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:48:21</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-18</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-19)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4723</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:35:40</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>RTLO8hEDY+8+VgIbqAmzbVeMetyTtiCYrszaeIXDzBTwBjQOs5C6U+Rpsyvh5pBUYNykI/SpMjDdnuD7WePK7ze8YrTdb8AYRpQD40cMPUZPbAHbp8e1HK7rMbJXREHcVqjZn7ULfkaQElkndHHmJWDTrui0FazxuMiIAD8141w=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-18</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:35:40</SystemEntryDate>
+                <CustomerID>322</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua da Creche, n.º 104</AddressDetail>
+                        <City>-112 São Mamede de Infesta</City>
+                        <PostalCode>4465-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:50:40</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>60</UnitPrice>
+                    <TaxPointDate>2021-03-18</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - bimestral</Description>
+                    <CreditAmount>60</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>13.8</TaxPayable>
+                    <NetTotal>60</NetTotal>
+                    <GrossTotal>73.80</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-19)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4724</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:39:00</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>fYWgOT6E3THrTINtnOHKqrovQQbKoe75AbWEkcQVSHNFXlp84iuZHS5MAVtUaR6GQYvn+2swdJgA/hVA9RxlbMACj1AYKRYNKpRxQQhIby/G7qFUoV9nVy5Tb7RK8nZt3d3G1HcpLAxOMNf0r79Cr1aLDk0gI7MEu+mzckpB70c=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:39:00</SystemEntryDate>
+                <CustomerID>51</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua de Boeiros, n,º 56</AddressDetail>
+                        <City>Vilarinho - Santo Tirso</City>
+                        <PostalCode>4795-819</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:54:00</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>75</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>75</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>17.25</TaxPayable>
+                    <NetTotal>75</NetTotal>
+                    <GrossTotal>92.25</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4725</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:41:01</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>X4IFAYGZcWIMeOJ3RSppUPLak6x0DF9os3/C91I9xItWRXnnvJjWnuPlQEYu3fn9+nl9jDDWoIsgWtcHidqXc0tHewAcY30L1ccbYokSgXrtHrdXJwg3tRLDeEKa80MHbxgyk8nFltdIlwPC475jirRY8OBxGinYlTV3LWNy2mI=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:41:01</SystemEntryDate>
+                <CustomerID>94</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Caldas da Saúde </AddressDetail>
+                        <City>- Areias, Santo Tirso</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:56:01</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>75</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>75</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>17.25</TaxPayable>
+                    <NetTotal>75</NetTotal>
+                    <GrossTotal>92.25</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4726</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:41:40</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>DSn8+V8nwy61YR1XPI2VxTWpvaSisLy08xixctaM09wfq2100UdDE3BU8et8lZimiD+bod7R3a1RalaB17XCnZ20X/lhrF9wISu+/5uUamuqfrsrbMGKShAMzOqbtWc1WaShgFQtf+JBDQMU9vFIl60lrgKG3ZuDbWDmse5PFD4=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:41:40</SystemEntryDate>
+                <CustomerID>95</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Caldas da Saúde </AddressDetail>
+                        <City>- Areias, Santo Tirso</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:56:40</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>112.5</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>112.5</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>25.88</TaxPayable>
+                    <NetTotal>112.5</NetTotal>
+                    <GrossTotal>138.38</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4727</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:42:14</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>shre8gIPgoF1VBZpilcHsn8ejMqObnY40SPF+5KPW34hRhsOuIYwp2Blqz/4dWSI/IohQOg+K9ngBWwHVQWvoNz0rGb65qMXShcXZHbDcnFmJ3Li6XoZFOArvB1T6FaZTgfKpjSHn1Rm0u5PIR59ezWViIhjdoZCeYfMo1NrJbc=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:42:14</SystemEntryDate>
+                <CustomerID>96</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Escola Profissional do INA Apartado 1</AddressDetail>
+                        <City>- Areias, Santo Tirso</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:57:14</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>37.5</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>37.5</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>8.63</TaxPayable>
+                    <NetTotal>37.5</NetTotal>
+                    <GrossTotal>46.13</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4728</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:42:51</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>NcNukjXVCuX63Z1fuWqMvKpFXL6TwkcwoH+XgJmt6DBUA/k/tI5R8ZHkO43neRthledujhm166k5zwwmXL/jYmVc5LExBg8FmOq8f6dYMPZ9lnygw4NGV6mtMFBGcB59kh44pq2WvZ1ZMvpweK63GwMFTYGYsbOOMqam3VR4TBI=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:42:51</SystemEntryDate>
+                <CustomerID>97</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Caldas da Saúde</AddressDetail>
+                        <City>- Areias, Santo Tirso</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:57:51</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>18.75</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>18.75</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>4.31</TaxPayable>
+                    <NetTotal>18.75</NetTotal>
+                    <GrossTotal>23.06</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4729</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:43:23</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>jaxWmbTBqfOfmRL7L8kJt5Ok+tQoA2umMj/B4rJMGFaZ+R0kLIFAMxXCxm4frfwwKallmcR7FgdZvRNM4/AWsy7OlQkkBhdYH9NFlAupZL12fxA08WB3gzX0ExPgL+u18ErCltyl8I578ExePErSTpSdToI/dFuhtGJ6te/mweQ=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:43:23</SystemEntryDate>
+                <CustomerID>98</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Caldas da Saúde</AddressDetail>
+                        <City>- Areias, Santo Tirso,</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:58:23</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>18.75</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>18.75</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>4.31</TaxPayable>
+                    <NetTotal>18.75</NetTotal>
+                    <GrossTotal>23.06</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4730</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:43:54</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>r+nQvKT0f6ZHWCVhzCdVItQcZSxgcn5/VnZ2mgmFgSliEFQYoJSpSCwElET2CIWyG386Pcw1Lz8JbPV6GSMK1H0u1Ts1cy+/4nkDIOdJGId4bj6I2Y4MeB+yfTljkSCOmKXCQeCdsxGNLVspP/2HJt/cyZjLJ8puE60+ZbwDXgM=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:43:54</SystemEntryDate>
+                <CustomerID>99</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Caldas da Saúde </AddressDetail>
+                        <City>- Areias, Santo Tirso</City>
+                        <PostalCode>4784-907</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:58:54</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>37.5</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>37.5</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>8.63</TaxPayable>
+                    <NetTotal>37.5</NetTotal>
+                    <GrossTotal>46.13</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4731</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:44:59</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>o7hGFLfMXebWJPVxBk4C4P3TvHd1/Bj22Ar7rR6MiW8utdcwpcakQE7DlK+U36fkiF+QzJftSuNF+lfIzKmdMRGi2AItpk2JP69jUk7hUkHwkvDdNOv5FMtE2/MH9WtwSAWSBytxf92RVbrkbKxrZ5wGMVC29/oh3gDXiV+WMGs=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-24</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:44:59</SystemEntryDate>
+                <CustomerID>208</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Eva Machado Guimarães nº 70</AddressDetail>
+                        <City>Oliveira S. Mateus</City>
+                        <PostalCode>4765-717</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T17:59:59</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>60</UnitPrice>
+                    <TaxPointDate>2021-03-24</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>60</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>13.8</TaxPayable>
+                    <NetTotal>60</NetTotal>
+                    <GrossTotal>73.80</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-25)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4732</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:46:25</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>EGeImyLM7GqtynwDGWFU21huwF1cYY2ahObb/I23oUKSvcLQOz0w+t6JJoDCvGX360b4kfeDLBZYeWuMKKFrzy0Ajgs8xYNyogOI4Ki099WX3tYd/OdiRwn5072XfH/csSpVSEQCFGu+FurnYLrCTcFfkFMxtxGWAZZtKXIQXxU=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-25</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:46:25</SystemEntryDate>
+                <CustomerID>293</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua de Mide, Lote 22 - Parque Industrial de Mide</AddressDetail>
+                        <City>Lordelo - Guimarães</City>
+                        <PostalCode>4815-169</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:01:25</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>70</UnitPrice>
+                    <TaxPointDate>2021-03-25</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>70</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>16.1</TaxPayable>
+                    <NetTotal>70</NetTotal>
+                    <GrossTotal>86.10</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-26)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4733</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:47:01</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>ZNmKcRa3gWOqbsZyoaXQvD0hSc2/3b6/9VzwKV5Oz5j9ghxP/kSrbCleM3AJ8MS21CNh4n8AnpVN/CG9ZqvMndgkDfvrobdeWlBb/BuL5/da2+SIg1SYqu/9bBy/1All5NrqcrhfXLUupD4uAEJzxztYcgOWR3u/KmhsGJSPoNA=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-25</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:47:01</SystemEntryDate>
+                <CustomerID>294</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua de Mide, Lote 22, Parque Industrial de Mide</AddressDetail>
+                        <City>Lordelo - Guimarães</City>
+                        <PostalCode>4815-169</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:02:01</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>70</UnitPrice>
+                    <TaxPointDate>2021-03-25</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>70</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>16.1</TaxPayable>
+                    <NetTotal>70</NetTotal>
+                    <GrossTotal>86.10</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-26)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4734</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:47:55</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>MYOgZvlB3jWa6CcCbeauqWOufR7YbLi9nHBDgkvm7fh25DW08ujvz2b2MB9LYQZtANvR6IsD/iK1oPUT7BJr1n4amlx/h6/u1kH1JdEwhqGTxlBTPynURwvRfG8jmimBj7CZfzIeoSGof4Xrwq1IYvuJHw9qs9sH30cCNcCh580=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-26</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:47:55</SystemEntryDate>
+                <CustomerID>271</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Dr. Manuel Faria, nº 601</AddressDetail>
+                        <City>Seide São Miguel</City>
+                        <PostalCode>4770-639</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:02:55</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-26</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-27)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4735</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:50:14</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>r1CgW84qKTwo1UhrKUfPvV1PcBECfmRFrJmBR+A+f0FTpZPkkP+ZGzBsfPSoeP7VFipPOFWI0Z8fAGQyYrSQ24Nl5i2y0x1vxpBOtFUIYqdnIvaKuWPPft6Og5CIQhHEbIoTj4Z63FdF9T5BuzlMmRwgn3kA3ZZ9SvDmJ0JPr8c=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-26</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:50:14</SystemEntryDate>
+                <CustomerID>252</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>BUBBLES Parque 1º de Maio</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-888</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:05:14</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-26</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-03-27)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4736</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:51:22</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>GyIlWx4HxI/GhEheiIhyHxLPXMPi7Na1XHSy1zKg73DB+pAlrHu8e/mApFwsC8YVk8MJFmNJJaLvsz+vXIt4he7bBYKgWp5H06JpUvcsaoX7r+eMLINwF2Js3VzapRl6ZeKpgx/XG5HA2ty5+V/V3KF0olqW9Qhd5bTa2KvBu2U=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-26</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:51:22</SystemEntryDate>
+                <CustomerID>337</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida 25 de Abril, n.º 22</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-101</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:06:22</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-26</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-27)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4737</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:55:57</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>Ez/fMPTdQgY1wvB4pMT0b2U/DlXs6bhVY60HSUp9UgA6X50SS0r/AHSkSDk4e1YEbFpuWKMwfu3PoBa0qrsgDPXM/U+KA8Fp9GQXbGnpq12tw7zo4N23j4hGCOm7a2ODIliDw7gds4rvsepkiM6tOBoitSihMg3Cjj0Z9ES2lVA=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-30</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:55:57</SystemEntryDate>
+                <CustomerID>34</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Lugar da Igreja, n.º 235 Requião</AddressDetail>
+                        <City>- 430 Vila Nova de Famalicão</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:10:57</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>3</ProductCode>
+                    <ProductDescription>Prestação de serviços na área da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-30</TaxPointDate>
+                    <Description>Prestação de serviços na área da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <Line>
+                    <LineNumber>2</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>70</UnitPrice>
+                    <TaxPointDate>2021-03-30</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - bimestral</Description>
+                    <CreditAmount>70</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>25.3</TaxPayable>
+                    <NetTotal>110</NetTotal>
+                    <GrossTotal>135.30</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-31)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4738</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T17:57:37</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>wilpuOPOYAhM1WGe0bkTwh5blu8O0WvAOq0ZTtTtXqjhcSdx8b59cqMvixx4YHglHavNRRgngfr34lnaVMn9DYMGyTe2ZzUUPJF6qZWBg+VHqVKT3RRKbb/PUnDG1BBYiihIDb2ftxIb1fZ90IA1jWdhCaElWB2Km6gO5ssthso=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-30</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T17:57:37</SystemEntryDate>
+                <CustomerID>347</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida de Laborins, n.º 147, 2º Esq. Frente</AddressDetail>
+                        <City>Joane</City>
+                        <PostalCode>4770-219</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:12:37</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-30</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - bimestral</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-03-31)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4739</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:00:15</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>WZvMLRvP5idzoK09O0NG2nYT/w+CFNDv2FjHtBLbS+wEmkycKm0QgV8jXEg+HoFtziuxKKUfPwzlpQ5Xkrhv50CtNAPGLXecIkcESZJ/TUBrzznQtkd2rYeClp5fubUtTSPKF8FOrqFMjwJuxLqR6owGtu9OxjZl2ujbOkjm3Gc=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:00:15</SystemEntryDate>
+                <CustomerID>33</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua dos Três Caminhos - Lote 10 Lugar de Meães</AddressDetail>
+                        <City>Esmeriz</City>
+                        <PostalCode>4760-482</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:15:15</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>100</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>100</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>23</TaxPayable>
+                    <NetTotal>100</NetTotal>
+                    <GrossTotal>123.00</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4740</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:01:38</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>YM1ssHrglZ+vki7EFGNiRxPFhjDQfoB1X0afiIVnaYWqfp+Rtg4Uqp1pMU9quk5BWwoLCZAmSXBa8KO5IHZUEtVX9GgiDzAFLibVz3YViQPH8QAVPwTdxb7eeTvakrQQi5adRalC+JCG3WLOIU2ve/brcverJn4Kn7oVwT2KLnE=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:01:38</SystemEntryDate>
+                <CustomerID>275</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Travessa da Lage, nº 35</AddressDetail>
+                        <City>Outiz, V. N. Famalicão</City>
+                        <PostalCode>4760-692</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:16:38</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>320</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>320</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>73.6</TaxPayable>
+                    <NetTotal>320</NetTotal>
+                    <GrossTotal>393.60</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4741</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:03:24</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>hJajaRGq3HsxB/LyXB3FDaoMcWpFbEAJqytqv8tLddyfHObgEvVolJFr2Dr0GYd6rQYxgrjoceHzr2/0sr2tUFsJhQcaOWLi65scxNSZEoLhJRmW7uA62xLbexX+nwnx/wjWoHQqF/6hdNlDsxtmIWW7Xm4/cbyEaptYWfLPnw4=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:03:24</SystemEntryDate>
+                <CustomerID>198</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Dona Maria Pregaria - Prego, Hamburgaria & Companhia Rua Duque de Saldanha, nº163, Calendário</AddressDetail>
+                        <City>- 334 Vila Nova de Famalicão</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:18:24</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>2</ProductCode>
+                    <ProductDescription>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>40</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - mensal</Description>
+                    <CreditAmount>40</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>9.2</TaxPayable>
+                    <NetTotal>40</NetTotal>
+                    <GrossTotal>49.20</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4742</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:05:30</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>DIuItT6NGFpwid0j3A0X2jEhtkZwuH+SFsQ9bWKFsCohuATn8sqUeya0XqX9U8t6QZv6EfaYCerBeyud0moLB/2eD3yzimbrlUuY4xea7RnU5IeOOMWt5hsx1HLqDmNT62IF+UQwWYLDWWGpzSPOzIuM4KCgmc0WYQzCMszJUYM=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:05:30</SystemEntryDate>
+                <CustomerID>313</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Lugar de Formariz Vila do Conde</AddressDetail>
+                        <City>Vila do Conde</City>
+                        <PostalCode>4480-958</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:20:30</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>180</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>180</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>41.4</TaxPayable>
+                    <NetTotal>180</NetTotal>
+                    <GrossTotal>221.40</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4743</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:07:03</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>Mc6HSjvea9XvPWOtaMknHQDGHWrdgefFFFDp5uNkHPnOoo4llIJr4oXTA6ZGaLYH6FEa9UvO/VFnrYvbcPAeLapzGoQ5dPEzIGSdLhAX3y7+LtOpfHaUv4LQegjYasRn4SpBJiGT3YyCXTU0rbaGGP3dju1NUnX9zqA3tcasYB0=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:07:03</SystemEntryDate>
+                <CustomerID>15</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua da Pedra, n.º 120 Vale de S. Cosme</AddressDetail>
+                        <City>Vale de S. Cosme - VN de Famalicão</City>
+                        <PostalCode>4770-578</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:22:03</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>65</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>65</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>14.95</TaxPayable>
+                    <NetTotal>65</NetTotal>
+                    <GrossTotal>79.95</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4744</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:07:52</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>2VG7Wpx/xoOWr41w95TOu2XGo86bDtBQxIJbalbWFm3karjFrrXdWSTcZp5Hp+PVlTLAjgh0TsW8HCv189MEYDjav1WVr7Q2F8Czle595vaTy6l6lDXbpD+kbVQqbmz+XCZgUf7sOkoYxotho9+zNmHnjC76uH9ccyQfz3+vsPY=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:07:52</SystemEntryDate>
+                <CustomerID>62</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua da Pedra, n.º 120</AddressDetail>
+                        <City>Vale de S. Cosme</City>
+                        <PostalCode>4770-578</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:22:52</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>3</ProductCode>
+                    <ProductDescription>Prestação de serviços na área da segurança alimentar </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>400</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços na área da segurança alimentar - mensal</Description>
+                    <CreditAmount>400</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>92</TaxPayable>
+                    <NetTotal>400</NetTotal>
+                    <GrossTotal>492.00</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4745</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:08:52</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>VXnnRtJcudNVsj7Vr8kernCLs2dtyOdPNKKzMlobAYZvvRUkWVs+AWOmAV9adwQuk9bnVhkgKWll7VnTDWt6JD+Pf+fvEHqJUMymVmnrxcF83Ju89kkPs2cZfAkto+KX62vzSZJ5VFLmJLCccqNCOhke5IMUieDLMdYhvxR0Alc=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:08:52</SystemEntryDate>
+                <CustomerID>64</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Praça Camilo Castelo Branco </AddressDetail>
+                        <City>Santo Tirso</City>
+                        <PostalCode>4780-374</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:23:52</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>135</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - bianual</Description>
+                    <CreditAmount>135</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>31.05</TaxPayable>
+                    <NetTotal>135</NetTotal>
+                    <GrossTotal>166.05</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4746</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:10:00</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>aPXcLcEDKyfAZ4jJyqfJVgBUz1GEn/3QRCRwn4UmvhyyigyprR2Vzi9u13vEUTzYD0MLZBZFj+auUDnD3IEjc5oP82unHCNKyvNRVeZpStklwzpxaIL6R9jZ2yIB+pZFEAx88/0XVQEBng7IwmK64b3SeEv2ovXZvEEEhh0g5dw=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:10:00</SystemEntryDate>
+                <CustomerID>115</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua do Bom Sucesso, n.º413</AddressDetail>
+                        <City>Reguenga -Santo Tirso</City>
+                        <PostalCode>4825-373</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:25:00</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>130</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - Anual</Description>
+                    <CreditAmount>130</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>29.9</TaxPayable>
+                    <NetTotal>130</NetTotal>
+                    <GrossTotal>159.90</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4747</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:10:46</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>fVRVfLeIuP4C5sz8ryLDCzbw/pklU3ES57W4OGAvxH357YsNs3b5kFs4XeosikxMuREoxdQCC9BScovWM/jVLA3Nj8/viA/KKZrhsJw4zOZt7D7muaoKqOxYKvQXWbJ2GUPp+6lPo4FG9snQbhArc+mWloYBSo3hGc7oxm11MAo=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:10:46</SystemEntryDate>
+                <CustomerID>121</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua do Outeiro, n.º 160</AddressDetail>
+                        <City>Requião - V.N. de Famalicão</City>
+                        <PostalCode>4770-452</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:25:46</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>200</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>200</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>46</TaxPayable>
+                    <NetTotal>200</NetTotal>
+                    <GrossTotal>246.00</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4748</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:11:31</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>QVU1KmNUbp3nI2sAL1B1u/94i0LypPm4mmhaQaPjFfkKsdWYSOW+/7u85vG8LDwitNEA0gamF8WfcTSQzS0vmbGtwA92JhFbmoQlUrri1yIEmupBpKwmG3o4TtQnyH4PYzEDJ2hWoMdWcU4DccdC63g2sh1f4z13SJNA/w50tzE=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:11:31</SystemEntryDate>
+                <CustomerID>139</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida D. Afonso Henriques, n.º 1492 - Calendário</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-283</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:26:31</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>125</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>125</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>28.75</TaxPayable>
+                    <NetTotal>125</NetTotal>
+                    <GrossTotal>153.75</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4749</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:12:16</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>Efte4qBmsQqn+TGdagK356pi8zFkb8u/tZArs2B1UF6hDa2W/R0vb8a3QT5fwLOBJYBHp3dO9NbUMg2hpDy5YL2paAMaZ9hp1nHAJsZ7jXFhugMsgOAUsNrGSXri7zKbYvHNkW1hLJgGu2s+5HKugfh6fIoxSwjlTx6B44lrd6o=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:12:16</SystemEntryDate>
+                <CustomerID>140</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Avenida Dom Afonso Henriques, n.º 1492 - Calendário</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-283</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:27:16</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>125</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - trimestral</Description>
+                    <CreditAmount>125</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>28.75</TaxPayable>
+                    <NetTotal>125</NetTotal>
+                    <GrossTotal>153.75</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4750</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:12:55</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>IPGawG3AdIVvF63Pbv5KsQNMgDGEC+ntoRZ6us6BxQCxQONd/hxsJq2/NBaFu2YgbDXrr+QWb5ghaZAW9X/C8xVKoLYwCUN12k+6pSNyFgfSBhoWgdWwRlrmv61t8hW0e8kMCMybRBebD69qHU/JOVwiSxYvyHhMXHkdPW9IAJY=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:12:55</SystemEntryDate>
+                <CustomerID>174</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua da Estação, n.º 668 Vinhal</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4761-909</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:27:55</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>65</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>65</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>14.95</TaxPayable>
+                    <NetTotal>65</NetTotal>
+                    <GrossTotal>79.95</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4751</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:14:03</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>FoQpjdHAlEeU581sHUQRkG+etHUl6kw4rDOGhddUEQP2z+w0vBNldnpAFoUQURYLG2AmCprjCkd0kpNO9GLWRFEbN182if20ql20E+emwGj0KwzRL+arASwQxrPbSIht2PK/pichkXVzWldLmMjFwIzyL1x/bkBXcX3RRbZIOBA=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:14:03</SystemEntryDate>
+                <CustomerID>181</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Dr.º José Vieira da Silva, n.º 54</AddressDetail>
+                        <City>Santo Tirso</City>
+                        <PostalCode>4780-452</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:29:03</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>130</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - Anual</Description>
+                    <CreditAmount>130</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>29.9</TaxPayable>
+                    <NetTotal>130</NetTotal>
+                    <GrossTotal>159.90</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4752</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:14:59</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>tkTO11gTHLaV2KVlx8Y3Bn/A70H1pkI58hZujl1uSNyXoksdsAJJdxIbNnuRhruDnGRZD6qbCVIYSooH1g2IUBFEpAAUb8+ERI1HlLovlOZxjW5++/180nWQ0M4+Yd7BknidZYIfK0r7/utzQGstfgOgNRTo0VScvnA3ZfAEctQ=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:14:59</SystemEntryDate>
+                <CustomerID>186</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Dr. Francisco Sá Carneiro, nº 66</AddressDetail>
+                        <City>Palmeira</City>
+                        <PostalCode>4780-326</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:29:59</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>60</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>60</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>13.8</TaxPayable>
+                    <NetTotal>60</NetTotal>
+                    <GrossTotal>73.80</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4753</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:16:34</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>gcliH+DdRKCQkRHsaWqo43Fw/46IWYjfICt9tekXgdlPEjolYHmGCi/GGfNYTiOpAd/Cn+x39gNOG8Qabk05uyQT6IkTagQ4SkP+mY7b6qIe2ntZtzVrnluJWoGFzHImcAXDt3PrO9f5J2TlBBDLi/5bWv1HoARQy9S3/H+eo6Y=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:16:34</SystemEntryDate>
+                <CustomerID>205</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Marchal Humberto Delgado, n.º 1458</AddressDetail>
+                        <City>Areias - Santo Tirso</City>
+                        <PostalCode>4780-039</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:31:34</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>25</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>25</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>5.75</TaxPayable>
+                    <NetTotal>25</NetTotal>
+                    <GrossTotal>30.75</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4754</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:17:39</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>w+nc3UwbwOB3oi02ncxqX0qMZjvA+89Fo5e+noB5SfJ4GgAhVyGobS62pW3B/mvmE/r+fQ1ZdxWWyeO6+lH/0YzM9yoir0EqUjfWp3yQjDcfq8FP1wojx2iuAal9PchvEhrkheW9jV5XMOn0QxK/lc5buquXatXwkr3Vb5a2qwI=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:17:39</SystemEntryDate>
+                <CustomerID>206</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Marchal Humberto Delgado</AddressDetail>
+                        <City>Areias - Santo Tirso</City>
+                        <PostalCode>4780-039</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:32:39</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>25</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>25</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>5.75</TaxPayable>
+                    <NetTotal>25</NetTotal>
+                    <GrossTotal>30.75</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4755</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:18:37</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>aSa47LuNLMs8KtqqJ0pQnTMLxWRuTKQisrA2tjIvMzOWKbl1DLbV6s9uVCijeFh29S/TyFO26ksFcw7Q43/FgUg/bFwCTy1A83nktkJUweOpicwAdqJYCDQm7gpEXIF4EbLvXAEQ69h6zI6H7I/g4XOi3VRpSuboZt84gSExGzE=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:18:37</SystemEntryDate>
+                <CustomerID>214</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Barão da Trovisqueira, nº86</AddressDetail>
+                        <City>Vila Nova de Famalicão</City>
+                        <PostalCode>4760-126</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:33:37</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>90</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>90</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>20.7</TaxPayable>
+                    <NetTotal>90</NetTotal>
+                    <GrossTotal>110.70</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4756</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:19:18</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>2KUMsCZjNy1siGf3/fRvcMoHe9XnceKXVD/7DhefBDUdjk6nqQPta2bQsZ4+MznxWyPjOM3XRYaDO7D2zv4axVaakVqAMTIJh2EjL75EmAMahMyH/NwagOfwA90S2zFBCCEfVrN1gMStfJRKUIMV5dudI5Th/SOkOh2MdOlymq0=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:19:18</SystemEntryDate>
+                <CustomerID>215</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Av. Conde Arnoso, nº1831</AddressDetail>
+                        <City>Arnoso, Santa Maria</City>
+                        <PostalCode>4770-526</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:34:18</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>50</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - mensal</Description>
+                    <CreditAmount>50</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>11.5</TaxPayable>
+                    <NetTotal>50</NetTotal>
+                    <GrossTotal>61.50</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4757</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:22:01</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>IfhyYvrWCfcIR+LhZLqA6mkGX6COrTbfSvfO2BwCbbxKxy+5C0yOKgnihdVFT7WzAZ4TNL8rcV9A20vnYukd0zhNuCqY65Xw9U/JVnqE7qhHEscYZb2HMZs9yhEshlMvSRHx9Gg5OkRfxf5EALAv7Wt4kYsSYMLJHWbCqHCZrJU=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:22:01</SystemEntryDate>
+                <CustomerID>280</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua do Sobrado, n.º 6</AddressDetail>
+                        <City>Silvares, Guimarães</City>
+                        <PostalCode>4835-443</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:37:01</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>200</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - Anual</Description>
+                    <CreditAmount>200</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>46</TaxPayable>
+                    <NetTotal>200</NetTotal>
+                    <GrossTotal>246.00</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4758</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:27:21</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>KvYSMeMU1BlkLbjCG698NKiJrB8E/T5re+PoOba+dWlg95/YS9iF6hLvabkxsQh/6DWnYNllV70IKQjbwb7U6llAyiTMcSjdSmStjMNOdS+HlXqMUGULTxmF72mJlPlYXXCpEUs4qIKej725uVmFm+9khKY79nlgeBLRHqKpnqg=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:27:21</SystemEntryDate>
+                <CustomerID>51</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua de Boeiros, n,º 56</AddressDetail>
+                        <City>Vilarinho - Santo Tirso</City>
+                        <PostalCode>4795-819</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:42:21</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>8</ProductCode>
+                    <ProductDescription>Acção de formação - Segurança contra incêndio para equipas de Segurança (12 horas)</ProductDescription>
+                    <Quantity>12</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>30</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Acção de formação - Segurança contra incêndio para equipas de Segurança (12 horas)</Description>
+                    <CreditAmount>360</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>82.8</TaxPayable>
+                    <NetTotal>360</NetTotal>
+                    <GrossTotal>442.80</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Cheque (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4759</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-05T18:28:09</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>cCfmv9NI1fYFaOtfRLBgipGn/pqMCV4e5BZLF3AcMPpsWNfP5i/kE4D78RuR5sB0D5H1gPj05BcYy4F6vfGpC29JALEQplWrUN5eveCuXcG6iyq3OfBfoc+JyGdizf4lfmOydITjhBal8qoiIHsyePAZsaOG+fM9HkjWX7rat1k=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-05T18:28:09</SystemEntryDate>
+                <CustomerID>223</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua 9 de Abril, 582</AddressDetail>
+                        <City>Porto</City>
+                        <PostalCode>4250-344</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-05</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-05T18:43:09</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>10</ProductCode>
+                    <ProductDescription>Elaboração de Plano de Segurança Interno - </ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>150</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Elaboração de Plano de Segurança Interno - Evomedical</Description>
+                    <CreditAmount>150</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>34.5</TaxPayable>
+                    <NetTotal>150</NetTotal>
+                    <GrossTotal>184.50</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+            <Invoice>
+                <InvoiceNo>FAC C/4760</InvoiceNo>
+                <ATCUD>0</ATCUD>
+                <DocumentStatus>
+                    <InvoiceStatus>N</InvoiceStatus>
+                    <InvoiceStatusDate>2021-04-12T17:35:12</InvoiceStatusDate>
+                    <SourceID>Ubiseg</SourceID>
+                    <SourceBilling>P</SourceBilling>
+                </DocumentStatus>
+                <Hash>xA4fwFqxCgiAC68C18AlHigFzgI7H7yrt5rzjyV0vmQraY8UePqqtbkvnajcAR6C8hdSXe07Cq4KIi6UxiJm9uHSMGFfklygTsNPBHvW31YO5l0ZZaGRtOY6TvfOdAyoMsphTJWRRB++enjoDTNjEkzIY0v6cEMUeapMIjC6NDA=</Hash>
+                <HashControl>1</HashControl>
+                <Period>03</Period>
+                <InvoiceDate>2021-03-31</InvoiceDate>
+                <InvoiceType>FT</InvoiceType>
+                <SpecialRegimes>
+                    <SelfBillingIndicator>0</SelfBillingIndicator>
+                    <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+                    <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+                </SpecialRegimes>
+                <SourceID>Ubiseg</SourceID>
+                <SystemEntryDate>2021-04-12T17:35:12</SystemEntryDate>
+                <CustomerID>302</CustomerID>
+                <ShipTo>
+                    <Address>
+                        <AddressDetail>Rua Dona Laura Cruz, n.º 1101</AddressDetail>
+                        <City>Lemenhe - Vila Nova de Famalicão</City>
+                        <PostalCode>4775-414</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipTo>
+                <ShipFrom>
+                    <DeliveryID>N/Viatura</DeliveryID>
+                    <DeliveryDate>2021-04-12</DeliveryDate>
+                    <Address>
+                        <AddressDetail>Rua Silverio Ferreira de Macedo, n.º 136 Loja 4</AddressDetail>
+                        <City>VILA NOVA DE FAMALICÃO</City>
+                        <PostalCode>4760-000</PostalCode>
+                        <Country>PT</Country>
+                    </Address>
+                </ShipFrom>
+                <MovementStartTime>2021-04-12T17:50:12</MovementStartTime>
+                <Line>
+                    <LineNumber>1</LineNumber>
+                    <ProductCode>1</ProductCode>
+                    <ProductDescription>Prestação de serviços de segurança e higiene no trabalho</ProductDescription>
+                    <Quantity>1</Quantity>
+                    <UnitOfMeasure>UNI</UnitOfMeasure>
+                    <UnitPrice>65</UnitPrice>
+                    <TaxPointDate>2021-03-31</TaxPointDate>
+                    <Description>Prestação de serviços de segurança e higiene no trabalho - Anual</Description>
+                    <CreditAmount>65</CreditAmount>
+                    <Tax>
+                        <TaxType>IVA</TaxType>
+                        <TaxCountryRegion>PT</TaxCountryRegion>
+                        <TaxCode>NOR</TaxCode>
+                        <TaxPercentage>23</TaxPercentage>
+                    </Tax>
+                    <SettlementAmount>0</SettlementAmount>
+                </Line>
+                <DocumentTotals>
+                    <TaxPayable>14.95</TaxPayable>
+                    <NetTotal>65</NetTotal>
+                    <GrossTotal>79.95</GrossTotal>
+                    <Settlement>
+                        <PaymentTerms>Dinheiro (Dt. Venc.: 2021-04-01)</PaymentTerms>
+                    </Settlement>
+                </DocumentTotals>
+            </Invoice>
+        </SalesInvoices>
+    </SourceDocuments>
+</AuditFile>

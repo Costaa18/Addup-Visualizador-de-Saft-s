@@ -1,0 +1,13 @@
+# Ativar a exibição de erros PHP
+php_flag display_errors on
+php_value error_reporting  E_ALL
+
+# Remover a extensão .php do URL
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+# Redirecionar para a página 404 em caso de erro
+ErrorDocument 404 /404.php

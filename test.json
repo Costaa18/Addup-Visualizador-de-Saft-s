@@ -1,0 +1,123 @@
+{
+  "AuditFile": {
+    "Header": {
+      "AuditFileVersion": "1.04_01",
+      "CompanyID": "V.N.F. 507999916",
+      "TaxRegistrationNumber": 507999916,
+      "TaxAccountingBasis": "P",
+      "CompanyName": "Ubiseg Segurança, Higiene e Ambiente, lda.",
+      "BusinessName": "Ubiseg Segurança, Higiene e Ambiente, lda.",
+      "CompanyAddress": {
+        "AddressDetail": "Rua Silverio Ferreira de Macedo, n.º 136 Loja 4",
+        "City": "VILA NOVA DE FAMALICÃO",
+        "PostalCode": "4760-000",
+        "Country": "PT"
+      },
+      "FiscalYear": 2021,
+      "StartDate": "2021-03-01",
+      "EndDate": "2021-03-31",
+      "CurrencyCode": "EUR",
+      "DateCreated": "2021-04-12",
+      "TaxEntity": "Sede",
+      "ProductCompanyTaxID": 502667583,
+      "SoftwareCertificateNumber": 2648,
+      "ProductID": "SAGE 50c/Sage Portugal SA",
+      "ProductVersion": "2021.02.001"
+    },
+    "MasterFiles": {
+      "Customer": [
+        {
+          "CustomerID": 4,
+          "AccountID": "Desconhecido",
+          "CustomerTaxID": 505824175,
+          "CompanyName": "Miga Doce, Padaria e Pastelaria, Lda.",
+          "BillingAddress": {
+            "AddressDetail": "Avenida Central, n.º 79",
+            "City": "Vale de S. Cosme",
+            "PostalCode": "4770-589",
+            "Region": "Braga",
+            "Country": "PT"
+          },
+          "SelfBillingIndicator": 0
+        }
+      ]
+    },
+    "SourceDocuments": {
+      "SalesInvoices": {
+        "NumberOfEntries": 42,
+        "TotalDebit": 0,
+        "TotalCredit": 4125,
+        "Invoice": [
+          {
+            "InvoiceNo": "FAC C/4719",
+            "ATCUD": 0,
+            "DocumentStatus": {
+              "InvoiceStatus": "N",
+              "InvoiceStatusDate": "2021-04-05T17:31:03",
+              "SourceID": "Ubiseg",
+              "SourceBilling": "P"
+            },
+            "Hash": "OPlLMBfHvJIW/+rYA9LVHHhFz/bd1blqVS45lNQYWcfM8Ws/Khtsqny0bW6lZ5trnhbn1LaoYSeYc0hIherN6dmoqWjoO78Q7ySY2YZdlKPp3gDZwPHWrRdm5ZvV4UngKt1PDhK2tngoFuHTnUpWrjkeTgBC8Jrb/CGnqtnp3yk=",
+            "HashControl": 1,
+            "Period": 3,
+            "InvoiceDate": "2021-03-11",
+            "InvoiceType": "FT",
+            "SpecialRegimes": {
+              "SelfBillingIndicator": 0,
+              "CashVATSchemeIndicator": 0,
+              "ThirdPartiesBillingIndicator": 0
+            },
+            "SourceID": "Ubiseg",
+            "SystemEntryDate": "2021-04-05T17:31:03",
+            "CustomerID": 135,
+            "ShipTo": {
+              "Address": {
+                "AddressDetail": "Avenida Santa Marinha, Edificio Santa Justa, Loja 3 e 4",
+                "City": "Gondifelos - Vila Nova de Famalicão",
+                "PostalCode": "4760-502",
+                "Country": "PT"
+              }
+            },
+            "ShipFrom": {
+              "DeliveryID": "N/Viatura",
+              "DeliveryDate": "2021-04-05",
+              "Address": {
+                "AddressDetail": "Rua Silverio Ferreira de Macedo, n.º 136 Loja 4",
+                "City": "VILA NOVA DE FAMALICÃO",
+                "PostalCode": "4760-000",
+                "Country": "PT"
+              }
+            },
+            "MovementStartTime": "2021-04-05T17:46:03",
+            "Line": {
+              "LineNumber": 1,
+              "ProductCode": 2,
+              "ProductDescription": "Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar",
+              "Quantity": 1,
+              "UnitOfMeasure": "UNI",
+              "UnitPrice": 40,
+              "TaxPointDate": "2021-03-11",
+              "Description": "Prestação de serviços nas áreas da segurança e higiene no trabalho e da segurança alimentar - Mensal",
+              "CreditAmount": 40,
+              "Tax": {
+                "TaxType": "IVA",
+                "TaxCountryRegion": "PT",
+                "TaxCode": "NOR",
+                "TaxPercentage": 23
+              },
+              "SettlementAmount": 0
+            },
+            "DocumentTotals": {
+              "TaxPayable": 9.2,
+              "NetTotal": 40,
+              "GrossTotal": 49.2,
+              "Settlement": {
+                "PaymentTerms": "Dinheiro (Dt. Venc.: 2021-03-12)"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
